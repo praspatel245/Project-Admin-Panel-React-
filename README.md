@@ -7,6 +7,7 @@ This is a React project that includes functionality for managing projects and es
 
 ## Installation
 
+git clone https://github.com/praspatel245/Project-Admin-Panel-React-.git
 To install the necessary dependencies, run the following command:
 ### `npm install`
 
